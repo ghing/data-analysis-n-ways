@@ -2,59 +2,52 @@
 
 Session notes, data, instructions and examples for a hands-on workshop on using a diverse set of tools and practices for journalistic data analysis.  For SRCCON 2016 http://srccon.org/sessions/#proposal-318397
 
-
 ## Workshop agenda
 
-### Introduction (? min)
+### Describe the task, break into groups (5 min)
 
-Share repo URL
-
-### What tools do we use for data analysis? (? min)
-
-Participants will be given post-it notes and asked to write the names of tools they use for data analysis on post-it notes. Facilitators will give a few examples:
+Place signs around the room where people can sit because they're interested in working with a specific tool.  Some examples might be:
 
 * R
+* Pandas
 * Agate
-* Jupyter notebooks
-* Paper and pencil
-* Calculator watch
+* Excel
+* SQL
 
-They'll then put them on the wall, trying to cluster multiple mentions of the same tool. Essentially, we'll end up with a visualization of the frequency of different tools.
+Have a few blank signs so people can have the option of forming a new group for a tool that we haven't mentioned.
 
-Facilitators will take a quick look at the wall and identify a few clusters.  We'll ask for someone who picked a tool to say a few words about it.
-
-Questions:
-
-* Should we put some kind of axis on the wall to help people place their post-it initially?
-
-### Describe the task, break into groups (? min)
-
-Facilitators tell the participants that they'll be doing data analysis for a news story.  Participants will be asked to break into groups based on which tool they want to use for the analysis.  They can use a tool they're familiar with, or one that they want to learn.  It doesn't matter.
+As participants trickle in before the session, tell the participants that they'll be doing data analysis for a news story.  Direct them toward the part of the room with the sign for the analys tool they're interested in.  They can use a tool they're familiar with, or one that they want to learn.  It doesn't matter.
 
 Facilitators will encourage groups to take a [mob programming](https://en.wikipedia.org/wiki/Mob_programming) ("All the brilliant people working at the same time, in the same space, at the same computer, on the same thing") approach, being sure to switch up the "driver" every few minutes.
 
-### Go!!! (? min)
+### Analysis (25-30 min)
 
 Point users to the analysis steps document in the repo, as well as the raw data and tell them to get going.
 
-### A wrench (? min, if there's time)
+### Retrospective (25-30 min)
 
-Oh no! We've got new data.  Repeat your analysis with the new/additional numbers.
+Each group will be given some prompts to reflect on the work they've done.  Each group will pick a representatives to answer **one** of the questions in front of everybody.
 
-### Retrospective (? min)
+* What worked well with the tool you chose?
+* What didn't work with the tool you chose?
+* What was unclear about the analysis script?
+* What additional questions would you ask of the data?
+* How would you share your analysis with a colleague (technical and non-technical)?  
+* Does your approach allow for good documentation?
+* How would your approach handle new data?
+* What libraries did you use with your tool?
+* How would you publish this analysis?
+  * How would you make it into a graphic?
+  * How would you share the data if someone else is doing this?
 
-Each group will be given some prompts to reflect on the work they've done.  Each group will pick representatives to answer **one** of the questions in front of everybody.
-
-* Did your numbers match the expected values?
-* What additional questions did you ask from the data that weren't part of the analysis instructions?
-* What was unclear from the instructions?
-* What worked well about your tools/approach?  What was difficult?
+As people are sharing 
 
 Participants will be asked to send a pull request or email their analysis scripts/workbooks/files to include in this repo.
 
 ## Workshop materials
 
-Post-it notes
+* Post-it notes
+* Paper, cards to make signs to identify groups
 
 ## About the data
 

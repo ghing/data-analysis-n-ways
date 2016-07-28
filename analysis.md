@@ -40,16 +40,6 @@ What's the lowest lead level? In which system?
 
 What's the highest lead level? In which system?
 
-Find systems with test results above the EPA standard
------------------------------------------------------
-
-Which water systems had at least one result above the EPA standard of 15 parts per billion?  In which years? What percentage of water systems had a test over the threshold?
-
-Find systems with very high lead levels
----------------------------------------
-
-Which water systems had at least one result above the EPA standard of 40 parts per billion? In which years? What percentage of water systems had a test over the threshold?
-
 Calculate 90th percentile
 -------------------------
 
@@ -59,6 +49,16 @@ Which water systems exceeded the EPA standard
 ---------------------------------------------
 
 Which water systems had a 90th percentile value above 15 parts per billion? In which years? How many systems exceeded the standard in one year? In two years? In three years ...?
+
+Find systems with individual test results above the EPA standard
+----------------------------------------------------------------
+
+Which water systems had at least one result above the EPA standard of 15 parts per billion?  In which years? What percentage of water systems had a test over the threshold?
+
+Find systems with very high individual test results
+---------------------------------------------------
+
+Which water systems had at least one result above the EPA standard of 40 parts per billion? In which years? What percentage of water systems had a test over the threshold?
 
 How many systems exceeded the standard in the Chicago area?
 -----------------------------------------------------------

@@ -52,3 +52,5 @@ Participants will be asked to send a pull request or email their analysis script
 ## About the data
 
 This data was used in the process of reporting [this story](http://www.chicagotribune.com/news/watchdog/ct-lead-water-illinois-met-20160512-story.html) and making [this interactive](https://github.com/ghing/data-analysis-n-ways.git).
+
+It is based on the EPA's [Lead and Copper Rule](http://nepis.epa.gov/Exe/ZyPDF.cgi?Dockey=P100DP2P.txt).

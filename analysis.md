@@ -1,10 +1,12 @@
 Lead data analysis
 ==================
 
+This is an example of an analysis "script" (agnostic to a particular tool) that you can use to replicate the analysis of this data.  As you're walking through it, think about how you would document your analysis to share with colleagues. Are there any important steps that are missed in this script? Are there additional questions you would ask as you "interview" the data?
+
 About the data
 --------------
 
-Each row represents a lead level (in parts per billion) test result for one test, at one location, in an Illinois water system.
+Each row represents a lead level (in parts per billion) test result for one test, at one location, in an Illinois water system. The data comes from the EPA and is part of the agencies [monitoring of lead and copper in drinking water](http://nepis.epa.gov/Exe/ZyPDF.cgi?Dockey=P100DP2P.txt).
 
 Fields:
 
